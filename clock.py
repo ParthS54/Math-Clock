@@ -9,8 +9,6 @@ Label1 = Label(frame1, font=('times', 50,'bold'), bg = 'white')
 Label1.pack(expand = YES)
 Label1.config(text = "Solve Equation, Know The Time")
 
-#having fun
-
 Hour1 = Label(root, font=('times', 100, 'bold'), bg='white')
 Hour1.pack(side= LEFT)
 Hour1.config(height=1, width=3)
